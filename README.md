@@ -1,2 +1,2 @@
-# curso-rails-advanced
-Rails 5.x Course Advanced 
+# Ruby on Rails Developer Course
+Rails 5.x 
